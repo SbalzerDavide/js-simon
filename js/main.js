@@ -52,7 +52,7 @@ $(document).ready(function(){
         for (var i = 0; i < findNumber.length; i++ ){
             numeriIndovinati.append(findNumber[i] + ' ');
         }
-    },3000);
+    },30000);
 
 })//<-- end jQuery
 
